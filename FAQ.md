@@ -43,3 +43,7 @@ Q: How do I setup a Cloud PC?
 
 A: [Here](https://www.youtube.com/watch?v=QLyTBHJY7jM) is a tutorial by [datHazy](https://twitter.com/datHazy)  for AWS. Other tutorials exist on Azure/Google Cloud with near identical steps on youtube. Once you figure out how to setup one, you should be able to figure out the other services easily. 
 
+
+Q: Can I contact you for questions/inquires?
+
+A: Sure, I'm always down to help/chat! Feel free to DM [me](https://twitter.com/Jason_GameDev)
