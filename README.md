@@ -14,7 +14,7 @@ So that is where me and the other player connects to.
 Tutorial on setup via @datHazy
 https://www.youtube.com/watch?v=QLyTBHJY7jM
 
-[Norcal]({{ site.baseurl }}{% link Norcal.md %})
+
 
 
 
