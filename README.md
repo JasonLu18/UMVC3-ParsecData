@@ -9,7 +9,7 @@ If you have gigabit internet, you'll reduce your input delay by at least 2Fs com
 
 2. The less download speed you have and weaker machine you're running, the more likely you'll expierence frame drops/skips
 
-Each page refers to where the Instance is being launched from. So that is where me and the other player connects to.
+Each page refers to where the Instance is being launched from. So that is where the player connects to.
 
 Tutorial on setup via @datHazy
 https://www.youtube.com/watch?v=QLyTBHJY7jM
