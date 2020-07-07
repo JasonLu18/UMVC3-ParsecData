@@ -1,6 +1,6 @@
 # UMVC3Parsec
-A collection of data gathered of player's input delay with Parsec and Cloud PCs. 
 
+A collection of data gathered of player's input delay with Parsec and Cloud PCs. 
 
 READ ME from @Jason_Gamedev
 1. Further distance you are from the source, the higher input delay you will have. 
@@ -13,9 +13,3 @@ So that is where me and the other player connects to.
 
 Tutorial on setup via @datHazy
 https://www.youtube.com/watch?v=QLyTBHJY7jM
-
-
-
-
-
-

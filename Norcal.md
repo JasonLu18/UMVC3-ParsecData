@@ -1,10 +1,6 @@
----
-datatable: true
----
-
 # Norcal
 
-<table class="display">
+<table>
   {% for row in site.data.AWS_Norcal %}
     {% if forloop.first %}
     <tr>
