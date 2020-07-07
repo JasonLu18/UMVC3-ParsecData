@@ -38,3 +38,9 @@ Q: Which service do you reccomend?
 
 A: It depends on your location and preferences. Google Cloud has the same areas as AWS but also has Iowa and LA, while Azure has Texas. Google Cloud has had a few stability issues with certain people. Google Cloud offers $300 credit for 1 year use on a brand new account while Azure offers $200 credit for 1 month use, AWS has no known free trial offers. 
 
+
+Q: How do I setup a Cloud PC?
+
+
+A: [Here](https://www.youtube.com/watch?v=QLyTBHJY7jM) is a tutorial by @dathazy for AWS. Other tutorials exist on Azure/Google Cloud with near identical steps on youtube. Once you figure out how to setup 1, you should be able to figure out the other services easily. 
+
