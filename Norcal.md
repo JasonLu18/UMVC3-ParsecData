@@ -1,3 +1,7 @@
+---
+datatable: true
+---
+
 # Norcal
 
 <table>
