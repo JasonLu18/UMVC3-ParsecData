@@ -41,5 +41,5 @@ A: It depends on your location and preferences. Google Cloud has the same areas 
 Q: How do I setup a Cloud PC?
 
 
-A: [Here](https://www.youtube.com/watch?v=QLyTBHJY7jM) is a tutorial by @dathazy for AWS. Other tutorials exist on Azure/Google Cloud with near identical steps on youtube. Once you figure out how to setup one, you should be able to figure out the other services easily. 
+A: [Here](https://www.youtube.com/watch?v=QLyTBHJY7jM) is a tutorial by [dathazy](https://twitter.com/datHazy)  for AWS. Other tutorials exist on Azure/Google Cloud with near identical steps on youtube. Once you figure out how to setup one, you should be able to figure out the other services easily. 
 
