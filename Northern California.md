@@ -1,6 +1,6 @@
 # Northern California
 
-Internet Speed
+Internet Speed: 
 1 Ping, 1157 Mbs Download, 2333 Mbs Upload. 
 
 | Player Name | Region | Download (Mbps) | Upload (Mbps) | Aprox. Input Delay | Aprox. Distance from source miles | 
