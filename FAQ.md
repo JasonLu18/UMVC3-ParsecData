@@ -11,6 +11,10 @@ Q: Is Parsec free?
 
 A: Yes, it is free to download [here](https://parsecgaming.com/downloads/)
 
+Q: Any settings I need to set in Parsec?
+
+A: In client settings for sure turn off v-sync, while host settings should set the resolution to 1280x720. Also in host settings the bandwith limit should lowered depending if frame skips/drops are occur. Other settings such as full screen/window mode  
+
 
 Q: What's the purpose of using Cloud PCs rather than just using your normal PC?
 
