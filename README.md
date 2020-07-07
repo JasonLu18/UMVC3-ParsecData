@@ -1,6 +1,6 @@
 # Home
 
-A collection of data gathered of player's input delay with Parsec and Cloud PCs. Contact me on Jason_Gamedev if you wanna contribute anything or have any questions! 
+A collection of data gathered of player's input delay with Parsec and Cloud PCs. 
 
 
 Each page refers to where the Instance is being launched from. So that is where the player connects to.
