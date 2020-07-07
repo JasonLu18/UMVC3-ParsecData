@@ -10,3 +10,5 @@ gh_edit_link_text: "Edit this page on Prose.io for GitHub"
 gh_edit_repository: "https://prose.io/#JasonLu18/UMVC3-ParsecData" # the github URL for your repo
 gh_edit_branch: "master" # the branch that your docs is served from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+theme: jekyll-theme-midnight
