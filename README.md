@@ -2,8 +2,6 @@
 
 A collection of data gathered of player's input delay with Parsec and Cloud PCs. Contact me on Jason_Gamedev if you wanna contribute anything or have any questions! 
 
-Tutorial on setup via @datHazy
-https://www.youtube.com/watch?v=QLyTBHJY7jM
 
 Each page refers to where the Instance is being launched from. So that is where the player connects to.
 
@@ -15,5 +13,5 @@ If you have gigabit internet, you'll reduce your input delay by at least 2Fs com
 2. The less download speed you have and weaker machine you're running, the more likely you'll expierence frame drops/skips
 
 
-
+Big thanks to @dathazy for teaching me how to setup AWS and Google Cloud Instances, and Kevin Ha for starting the idea of using Parsec with Cloud PCs!
 
