@@ -1,4 +1,6 @@
 # Norcal
+Internet Speed
+1 Ping, 1157 Mbs Download, 2333 Mbs Upload. 
 
 <table>
   {% for row in site.data.AWS_Norcal %}
