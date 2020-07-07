@@ -5,7 +5,7 @@ A collection of data gathered of player's input delay with Parsec and Cloud PCs.
 
 Each page refers to where the Instance is being launched from. So that is where the player connects to.
 
-General trends I've noticed while testing. 
+Important trends I've noticed while testing before you start playing. 
 
 1. Further distance you are from the source, the higher input delay you will have. 
 If you have gigabit internet, you'll reduce your input delay by at least 2Fs compared to non-gigabit internet.
