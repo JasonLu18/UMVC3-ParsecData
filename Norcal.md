@@ -4,7 +4,7 @@ datatable: true
 
 # Norcal
 
-<table>
+<table class="display">
   {% for row in site.data.Norcal %}
     {% if forloop.first %}
     <tr>
