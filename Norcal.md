@@ -5,7 +5,7 @@ datatable: true
 # Norcal
 
 <table class="display">
-  {% for row in site.data.Norcal %}
+  {% for row in site.data.AWS_Norcal %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
