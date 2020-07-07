@@ -1,7 +1,3 @@
----
-nav_exclude: true
----
-
 # Home
 
 A collection of data gathered of player's input delay with Parsec and Cloud PCs. 
