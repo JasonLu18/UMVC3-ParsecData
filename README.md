@@ -1,4 +1,8 @@
-# UMVC3Parsec
+---
+nav_order: 1
+---
+
+# Home
 
 A collection of data gathered of player's input delay with Parsec and Cloud PCs. 
 
