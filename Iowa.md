@@ -1,6 +1,6 @@
 # Iowa
 
-Internet Speed
+Internet Speed: 
 15 Ping, 960 Mbs Download, 2903 Mbs Upload
 
 | Player Name | Region | Download (Mbps) | Upload (Mbps) | Aprox. Input Delay | Aprox. Distance from source miles | 
