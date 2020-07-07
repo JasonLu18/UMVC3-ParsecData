@@ -1,0 +1,31 @@
+Player Name,Region,Download (Mbps),Upload (Mbps),Aprox. Input Delay,Aprox. Distance from source miles,Misc Notes,READ ME from @Jason_Gamedev
+Kevin Ha,CA (Socal),60,60,2F,430,,"1. Further distance you are from the source, the higher input delay you will have. "
+TA Wolf,Guadalajara Mexico,100,100,6F,3100,,"If you have gigabit internet, you'll reduce you're input delay by at least 2Fs compared to non-gigabit internet."
+Baekun,CA (Socal),406,21,2F,430,,
+Brutal Prince,CA (Socal),150,150,1F,430,,"2. The less download speed you have and weaker machine you're running, the more likely you'll expierence frame drops/skips"
+AZReadMan,"Phoenix, AZ",300,30, 3-5F,800,,
+EMP Obama,DC,360,12, 3-5F,2700,,
+Eternal Yoshi,NY,488,23, 3-5F,2800,,"Each page refers to where the Instance is being launched from. If it doesn't say Google, it's AWS. "
+RafyToro,Orlando FL,470,23,5F,2857,,So that is where me and the other player connects to.
+KaneBlueRiver,Santiago Chile,200?,8,12-14F,5937,,
+I<3Justice,Las Vegas NV,500,35,2F,505,,Ex. Kevin Ha from Socal in this page connected to Norcal and I connected from Puyallup to Norcal. 
+Sacktap,CA (Socal),,10,2F,430,,
+Sykill,Phoenix AZ,20,10,2F,800,,Tutorial on setup via @datHazy
+Ivan,Guadalajara Mexico,100,11,6F,3100,,https://www.youtube.com/watch?v=QLyTBHJY7jM
+Tabs,Dallas Texas,200,10,5F,1769,,
+Sparda,BC Canada,,20,2F,1076,,
+Arithmatic,CA (Socal),,10,2F,400,,Cloud PC Internet
+Gouken Respek,CA (Socal),10,86,2F,400,,1 Ping
+JasonKiddo,Louisiana,700,900,4F,2116,,1157 Mbps Download
+Aonien ,Quebek Canada,27.1,26.8,5F,3016,,2333 Mbps Upload
+Fchamp,CA (Norcal),,18,1F,X,,
+NED,Seattle,26,26,,807,Seemed to have issues?,
+Irongod,CA (Socal),94.5,11,1F,430,Issues with Mexico players?,All data is based off when they connect with me and possibly others.
+Miniboss,CA (Socal),232,11,2F,430,,
+StaticAlpha,"Louiville, Kentucky ",233,11,5F,2340,,Puyallup WA (40 miles south of Seattle)
+Angelic,Phoenix AZ,1000,50,2F,800,,11 Ping
+QuackBot,Calgary Alberta Canada,143,41,5F,2131,,210 Mbps Download
+Shadows,CA (Norcal),300,12,1F,X,,5.73 Mbps Upload
+Sanity,CA (Socal),92,119,2F,430,Issues with NED/Honduran?,2F Input Delay
+Davidacoo,,600,20,2F,,,780 miles away
+SnowNun,WA,22,3.6,5F,800,,
