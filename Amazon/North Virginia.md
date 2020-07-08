@@ -1,5 +1,5 @@
 ---
-parent: Google Cloud
+parent: Amazon
 ---
 
 # North Virginia
