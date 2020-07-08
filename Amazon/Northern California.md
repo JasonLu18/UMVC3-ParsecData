@@ -1,7 +1,6 @@
 ---
-parent: Google Cloud
+parent: Amazon
 ---
-
 # Northern California
 
 Internet Speed: 
