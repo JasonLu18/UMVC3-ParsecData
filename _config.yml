@@ -1,5 +1,9 @@
 remote_theme: pmarsceill/just-the-docs
 
+aux_links:
+  "View this on GitHub":
+    - "//github.com/JasonLu18/UMVC3-ParsecData"
+
 # Footer content
 footer_content: "Copyright &copy;2020 <a href=\"https://twitter.com/Jason_GameDev\">@Jason_GameDev on Twitter</a>"
 
