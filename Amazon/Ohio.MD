@@ -1,3 +1,7 @@
+---
+parent: Amazon
+---
+
 # Ohio  
 
 Internet Speed: 5 Ping, 1790 Mbps Download, 2661 Mbps Upload
