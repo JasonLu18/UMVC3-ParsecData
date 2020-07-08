@@ -1,6 +1,3 @@
 # Sao Paulo, Brazil
 
-| Player Name | Region | Download (Mbps) | Upload (Mbps) | Aprox. Input Delay | Aprox. Distance from source miles |
-|-|-|-|-|-|-|
-| Jason | Seattle | 210 | 5.73 | 9F | 4793 |  
-| KaneBlueRiver | Santiago Chile | 200 | 8 | 4F | 2042 |
+{% include csv_table.md data=site.data.AWS_Brazil name="AWS_Brazil" %}
