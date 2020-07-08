@@ -1,3 +1,7 @@
+---
+parent: Google Cloud
+---
+
 # North Virginia
 
 Internet Speed: 
