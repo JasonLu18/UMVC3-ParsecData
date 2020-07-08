@@ -1,5 +1,5 @@
 <table>
-  {% for row in site.data.{{ include.file }} %}
+  {% for row in include.data %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
