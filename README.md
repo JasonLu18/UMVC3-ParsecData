@@ -1,3 +1,7 @@
+---
+nav_order: 3
+---
+
 # Home
 
 A collection of data gathered of player's input delay with Parsec and Cloud PCs. 
