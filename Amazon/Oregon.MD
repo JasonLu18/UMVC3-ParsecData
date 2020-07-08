@@ -1,3 +1,7 @@
+---
+parent: Amazon
+---
+
 # Oregon
 
 Internet Speed: 1 Ping, 1871 Mbps Download, 2646 Mbps Upload
