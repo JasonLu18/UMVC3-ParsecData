@@ -1,7 +1,5 @@
-[Download {{ include.file }}]({{site.github.repository_url}}/tree/master/_data/{{ include.file }}.csv){: .btn }
-
 <table>
-  {% for row in site.data.{{ include.file }} %}
+  {% for row in include.data %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
@@ -15,3 +13,5 @@
     {% endtablerow %}
   {% endfor %}
 </table>
+
+[View {{ include.name | append: ".csv"}}]({{site.github.repository_url}}/tree/master/_data/{{include.name }}.csv){: .btn }
